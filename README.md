@@ -598,3 +598,21 @@ R=4.7kΩ*4.7kΩ*6.8kΩ*5.6kΩ*1kΩ*5.6kΩ=518Ω
 
 R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω 
 
+VIDEO
+
+
+CONCLUSIONES
+
+Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudó mucho a reforzar y complementar las leyes de Kirchhoff donde se tuvo mas claro la relación entre la corriente, el voltaje y los tipos de circuitos ya sea en paralelo o en serie concluir que la corriente fluye por un circuito donde la cantidad de corriente que fluye por el mismo es directamente proporcional a la fuerza aplicada.
+
+Bibliografía
+
+Clouds, L. (12 de 03 de 2016). FISICALAB. Obtenido de FISICALAB: https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+
+Douglas-Young. (25 de 05 de 2018). WIKIPEDIA. Obtenido de WIKIPEDIA: https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica
+
+Lopez, M. (22 de abril de 2021). Mecatronica Latam. Obtenido de Mecatronica Latam: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
+
+
