@@ -600,6 +600,7 @@ R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω
 
 VIDEO
 
+https://youtu.be/vn736LOx2_I
 
 CONCLUSIONES
 
